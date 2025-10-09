@@ -7,7 +7,6 @@ public class Solution {
                 }
             }
         }
-        // Çözüm bulunamazsa istisna fırlat
         throw new ArgumentException("No two sum solution found");
     }
 }
