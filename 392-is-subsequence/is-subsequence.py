@@ -5,7 +5,7 @@ class Solution:
 
         for char in s:  
             found = False
-            for j in range(t_index, t_len):
+            for j in range(t_index, len(t)):
                 if t[j] == char:
                     t_index = j + 1
                     found = True
