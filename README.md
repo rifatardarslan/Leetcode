@@ -14,5 +14,3 @@ This repository contains my **LeetCode problem solutions**, written mainly in **
 Each problem is carefully solved, optimized, and documented to improve both understanding and speed.
 
 ---
-
-## 🧭 Structure
