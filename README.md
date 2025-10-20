@@ -1,4 +1,4 @@
-<h1 align="center">🧩 LeetCode Solutions by Rıfat Arda Arslan</h1>
+<h1 align="center">🧩 LeetCode Solutions by Rifat Arda Arslan</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/license/rifatardarslan/Leetcode?style=for-the-badge" alt="License"/>
